@@ -3,11 +3,11 @@
 Una borsa di collaborazione è una borsa di studio assegnata a studenti che svolgono varie attività di supporto all'interno della Sapienza.
 
 Tutte le borse di collaborazione richiedono lo svolgimento di **150 ore di attività** in cambio di un compenso massimo di 1295€ (o di 1500€, in caso l'attività riguardi il supporto di studenti DSA). In genere la retribuzione avviene così:
-- Lo studente che svolge meno di 75 ore non riceve alcun compenso
+- Lo studente che svolge meno di 25 ore non riceve alcun compenso
 - Una volta che lo studente raggiunge 75 ore di attività riceve metà del compenso della borsa
 - Il resto del compenso viene versato o al raggiungimento delle 150 ore o al termine fissato dal bando per lo svolgimento dell'attività; se entro tale termine lo studente non ha raggiunto le 150 ore, il compenso versato sarà proporzionale al numero di ore svolte (ad esempio, 100 ore di attività corrispondono a circa 865€ di compenso, di cui 650€ vengono versati raggiunte le 75 ore e 215€ al termine della borsa)
 
-Lo studente può anche decidere di porre fine alla borsa prima del suo termine naturale, purché avvisi il proprio referente con anticipo. Il versamento del compenso rimane invariato: se lo studente ha svolto meno di 75 ore non riceve nessuna somma, altrimenti riceve una somma percentuale al numero di ore svolte prima della rinuncia.
+Lo studente può anche decidere di porre fine alla borsa prima del suo termine naturale, purché avvisi il proprio referente con anticipo. Il versamento del compenso rimane invariato: se lo studente ha svolto meno di 25 ore non riceve nessuna somma, altrimenti riceve una somma percentuale al numero di ore svolte prima della rinuncia.
 
 **Ogni studente può accedere a una sola borsa di collaborazione per anno accademico**. Nonostante ciò, può presentare domanda per più borse di collaborazione e poi sceglierne una.
 
