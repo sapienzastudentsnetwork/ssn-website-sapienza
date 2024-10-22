@@ -3,11 +3,11 @@
 A student collaboration scholarship is a scholarship assigned to students that take part in various activity of support for Sapienza.
 
 Every scholarship covers **a maximum of 150 hours of activity** for a compensation of 1295€ (or 1500€, if the activity includes support for students with learning disorders). Generally, retribution is carried out in this way:
-- The student that completes less than 75 hours will not receive any amount of money;
+- The student that completes less than 25 hours will not receive any amount of money;
 - Once the student completes 75 hours, he/she receives half of the compensation;
 - The rest of the compensation is deposited either once he/she completes 150 hours of activity or when the scholarship ends; if when the scholarship ends the student has not finished 150 hours, the compensation will be proportional to the number of hours completed (for example, if the student does 100 hours, he/she will receive 865€, of which 650 when he/she completes 75 hours and the rest at the end of the scholarship).
 
-The students can decide to abandon the scholarship before it ends if he/she notifies the referent in time. The compensation will work in the same way: if he/she abandons before completing 75 hours he/she won't receive anything, otherwise he/she will receive a compensation proportional to the number of hours completed.
+The students can decide to abandon the scholarship before it ends if he/she notifies the referent in time. The compensation will work in the same way: if he/she abandons before completing 25 hours he/she won't receive anything, otherwise he/she will receive a compensation proportional to the number of hours completed.
 
 {{% hint warning %}}
 <i class="fa-solid fa-triangle-exclamation" style="color: #FFD43B;"></i> **Warning**
