@@ -24,5 +24,5 @@ To activate the Card, you must:
     * Go to **Profile > Photo** and upload a **passport-style photo** that meets the requirements (light background, front-facing, no sunglasses or artistic poses).
 
 2. **Complete identity verification**
-    * This can be done **in person** at the **Administrative Office** of your Faculty, or **remotely via video call** (e.g., Skype), following the instructions provided by your office.
+    * This can be done **in person** at the **Student Affairs Office** of your Faculty, or **remotely via video call** (e.g., Skype), following the instructions provided by your office.
     * Check the [page of your Student Affairs Office](https://www.uniroma1.it/en/pagina/student-cards#list-of-student-affairs-offices) for current hours and contact information.
