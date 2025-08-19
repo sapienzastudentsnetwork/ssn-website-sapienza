@@ -1,8 +1,8 @@
 # Mense Universitarie
 
-Le mense universitarie sono strutture che permettono di mangiare ad un prezzo agevolato (i prezzi per fascia ISEE possono essere consultati nella [pagina dedicata sul sito DiSCo Lazio](http://www.laziodisco.it/servizi/ristorazione/)) a seconda del proprio ISEE universitario.
+Le mense universitarie sono strutture che permettono di mangiare ad un prezzo agevolato (i prezzi per fascia ISEE possono essere consultati nella [pagina dedicata sul sito DiSCo Lazio](https://laziodisco.it/servizi/ristorazione/#costi)) a seconda del proprio ISEE universitario.
 
-Gli studenti internazionali possono ottenere l'ISEE soltanto in uno dei CAF convenzionati: l'elenco per l'A.A. 2024/2025 si trova [qui](http://www.laziodisco.it/a-a-a2024-2025-elenco-dei-caf-convenzionati/). La documentazione richiesta per ottenere il calcolo dell'ISEE si trova sul sito di [DiSCo Lazio](http://www.laziodisco.it/servizi/ristorazione/) sotto la voce "Documentazione per il primo accredito di studenti internazionali".
+Gli studenti internazionali possono ottenere l'ISEE soltanto in uno dei CAF convenzionati: l'elenco per l'A.A. 2025/2026 si trova [qui](https://laziodisco.it/wp-content/uploads/2025/06/CAF-convenzionati-nel-Lazio-1.pdf). La documentazione richiesta per ottenere il calcolo dell'ISEE si trova sul sito di [DiSCo Lazio](http://www.laziodisco.it/servizi/ristorazione/) sotto la voce "Documentazione per il primo accredito di studenti internazionali".
 
 ## Registrazione
 Prima di tutto, dovrai registrarti all'[Area Riservata di DiSCo Lazio](https://login.laziodisco.it/access/borse).
@@ -27,19 +27,27 @@ Infine, usando un secondo dispositivo, accedi all'[Area Riservata](https://login
 
 Ti basterà avviare l'app e far scansionare il tuo QR Code alla mensa da te scelta per avere il pasto al prezzo della fascia corrispondente al tuo ISEE!
 
-## Mense di DiSCo Lazio
+## Mense e punti ristoro di DiSCo Lazio
 
-Potrai usare l'app nei seguenti punti di ristoro:
-- [Mensa Via Lauro De Bosis](http://www.laziodisco.it/luoghi/mensa-via-lauro-de-bosis/), Via Lauro De Bosis 6
-- [Punto Ristoro Caffè dei Pittori](http://www.laziodisco.it/luoghi/punto-ristoro-caffe-dei-pittori/), Via Flaminia 57/59
-- [Punto Ristoro Ospedale Sant'Andrea](http://www.laziodisco.it/luoghi/punto-ristoro-ospedale-santandrea/), Via di Grotta Rossa 1039
-- [Punto Ristoro Ristorante Vinile](http://www.laziodisco.it/luoghi/punto-ristoro-ristorante-vinile/), Via Libetta 19
-- [Mensa Via Cambridge](http://www.laziodisco.it/luoghi/mensa-via-cambridge/), Via Cambridge 11
-- [Mensa Via De Dominicis](http://www.laziodisco.it/luoghi/mensa-via-de-dominicis/), Via De Dominicis 13/15
-- [Mensa Via De Lollis](http://www.laziodisco.it/luoghi/mensa-via-de-lollis/), Via Cesare De Lollis 22
-- [Mensa Via del Castro Laurenziano](http://www.laziodisco.it/luoghi/mensa-via-del-castro-laurenziano/), Via del Castro Laurenziano 7b
-- [Mensa Via della Vasca Navale](http://www.laziodisco.it/luoghi/mensa-via-della-vasca-navale/), Via della Vasca navale 79
-- [Mensa Via delle Sette Sale](http://www.laziodisco.it/luoghi/mensa-via-delle-sette-sale/), Via delle Sette Sale 29
+Potrai usare l'app nelle seguenti [mense](https://laziodisco.it/mense/):
+- [Mensa Castro Laurenziano](https://laziodisco.it/mense/mensa-castro-laurenziano/), Roma, Via del Castro Laurenziano, 7b
+- [Mensa Cambridge](https://laziodisco.it/mense/mensa-via-cambridge/), Roma, Via Cambridge, 115 (a breve distanza dal polo universitario di Tor Vergata)
+- [Mensa di Frosinone](https://laziodisco.it/mense/mensa-di-frosinone/), Frosinone, Piazza Marzi, 1 (presso la sede dell’Università di Cassino e del Lazio Meridionale)
+- [Mensa De Dominicis](https://laziodisco.it/mense/mensa-via-de-dominicis/), Roma, Via De Dominicis, 13/15 (nel quartiere Casal Bertone di Roma)
+- [Mensa De Lollis](https://laziodisco.it/mense/mensa-via-de-lollis/), Roma, Via Cesare De Lollis, 22
+- [Mensa Folcara](https://laziodisco.it/mense/mensa-folcara/), Cassino, Viale dell’Università, snc (presso il College Folcara)
+- [Mensa Foro italico](https://laziodisco.it/mense/mensa-foro-italico/), Roma, Via Lauro De Bosis, 6 (all'interno dell'edificio universitario dell’Università degli Studi di Roma "Foro Italico")
+- [Mensa Latina](https://laziodisco.it/mense/mensa-latina/), Latina, Via XXIV Maggio, 48 (di fronte alla Facoltà di Economia dell’Università di Latina)
+- [Mensa San Sisto](https://laziodisco.it/mense/mensa-san-sisto-2/), Viterbo, Piazza San Sisto, 8 (a pochi minuti a piedi dall’Università degli Studi della Tuscia)
+- [Mensa Sette Sale](https://laziodisco.it/mense/mensa-sette-sale/), Roma, Via delle Sette Sale, 29 (a pochi passi dal Colosseo)
+- [Mensa Vasca Navale](https://laziodisco.it/mense/mensa-di-via-della-vasca-navale/), Roma, Via della Vasca Navale, 79
+- [Mensa Via Alessandro Volta “Riello”](https://laziodisco.it/mense/mensa-via-alessandro-volta-riello/), Viterbo, Via Alessandro Volta, 37 (vicino al polo scientifico dell’Università degli Studi della Tuscia)
+
+E nei seguenti [punti ristoro](https://laziodisco.it/punti-ristoro/):
+- [Punto Ristoro Caffè dei pittori](https://laziodisco.it/punti-ristoro/caffe-degli-artisti/), Roma, Via Flaminia, 57/59 (vicino al Dipartimento di Architettura di Sapienza)
+- [Punto Ristoro Sant'Andrea](https://laziodisco.it/punti-ristoro/punto-ristoro-santandrea/), Roma, Via di Grotta Rossa, 1039 (all’interno dell’omonimo ospedale)
+    - L'accesso al punto ristoro è riservato agli studenti iscritti presso la facoltà di Medicina e Chirurgia dell’ospedale Sant’Andrea.
+- [Punto Ristoro Ristorante Vinile](https://laziodisco.it/punti-ristoro/test-punto-ristoro/), Roma, Via Giuseppe Libetta 19
 
 {{% hint info %}}
 <i class="fa-solid fa-circle-info" style="color: #74C0FC;"></i> **Pasti per celiaci e intolleranti al glutine**

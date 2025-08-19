@@ -2,7 +2,7 @@
 
 University canteens are facilities that allow you to eat at a subsidized price (prices by ISEE bracket can be found on the [dedicated page on the DiSCo Lazio website](http://www.laziodisco.it/servizi/ristorazione/)) depending on your university ISEE (Indicator of Equivalent Economic Situation).
 
-International students must get ISEE only from an affiliated CAF (Fiscal Assistance Center): the full list can be found [here](http://www.laziodisco.it/guide/caf-convenzionati-2022/). Required documentation to obtain the ISEE can be found on the website of [DiSCo Lazio](http://www.laziodisco.it/servizi/ristorazione/) under the heading "Documentazione per il primo accredito di studenti interazionali" (Documentation for first accreditation of international student).
+International students must get ISEE only from an affiliated CAF (Fiscal Assistance Center): the full list can be found [here](https://laziodisco.it/wp-content/uploads/2025/06/CAF-convenzionati-nel-Lazio-1.pdf). Required documentation to obtain the ISEE can be found on the website of [DiSCo Lazio](http://www.laziodisco.it/servizi/ristorazione/) under the heading "Documentazione per il primo accredito di studenti interazionali" (Documentation for first accreditation of international student).
 
 ## Registration
 
@@ -28,19 +28,27 @@ Finally, using a second device, log into the [restricted area](https://login.laz
 
 Now, just show the app at the chosen canteen to obtain a meal at the prize of your ISEE range!
 
-## Canteens of DiSCo Lazio
+## Canteens and refreshment points of DiSCo Lazio
 
-You'll be able to use the app in the following canteens:
-- [Mensa Via Lauro De Bosis](http://www.laziodisco.it/luoghi/mensa-via-lauro-de-bosis/), Via Lauro De Bosis 6
-- [Punto Ristoro Caffè dei Pittori](http://www.laziodisco.it/luoghi/punto-ristoro-caffe-dei-pittori/), Via Flaminia 57/59
-- [Punto Ristoro Ospedale Sant'Andrea](http://www.laziodisco.it/luoghi/punto-ristoro-ospedale-santandrea/), Via di Grotta Rossa 1039
-- [Punto Ristoro Ristorante Vinile](http://www.laziodisco.it/luoghi/punto-ristoro-ristorante-vinile/), Via Libetta 19
-- [Mensa Via Cambridge](http://www.laziodisco.it/luoghi/mensa-via-cambridge/), Via Cambridge 11
-- [Mensa Via De Dominicis](http://www.laziodisco.it/luoghi/mensa-via-de-dominicis/), Via De Dominicis 13/15
-- [Mensa Via De Lollis](http://www.laziodisco.it/luoghi/mensa-via-de-lollis/), Via Cesare De Lollis 22
-- [Mensa Via del Castro Laurenziano](http://www.laziodisco.it/luoghi/mensa-via-del-castro-laurenziano/), Via del Castro Laurenziano 7b
-- [Mensa Via della Vasca Navale](http://www.laziodisco.it/luoghi/mensa-via-della-vasca-navale/), Via della Vasca navale 79
-- [Mensa Via delle Sette Sale](http://www.laziodisco.it/luoghi/mensa-via-delle-sette-sale/), Via delle Sette Sale 29
+You can use the app in the following [canteens](https://laziodisco.it/mense/):
+- [Mensa Castro Laurenziano](https://laziodisco.it/mense/mensa-castro-laurenziano/), Roma, Via del Castro Laurenziano, 7b
+- [Mensa Cambridge](https://laziodisco.it/mense/mensa-via-cambridge/), Roma, Via Cambridge, 115 (a short distance from the university campus of Tor Vergata)
+- [Mensa di Frosinone](https://laziodisco.it/mense/mensa-di-frosinone/), Frosinone, Piazza Marzi, 1 (at the premises of the University of Cassino and Southern Lazio)
+- [Mensa De Dominicis](https://laziodisco.it/mense/mensa-via-de-dominicis/), Roma, Via De Dominicis, 13/15 (in the Casal Bertone neighborhood of Rome)
+- [Mensa De Lollis](https://laziodisco.it/mense/mensa-via-de-lollis/), Roma, Via Cesare De Lollis, 22
+- [Mensa Folcara](https://laziodisco.it/mense/mensa-folcara/), Cassino, Viale dell’Università, snc (inside College Folcara)
+- [Mensa Foro italico](https://laziodisco.it/mense/mensa-foro-italico/), Roma, Via Lauro De Bosis, 6 (inside the university building of Università degli Studi di Roma "Foro Italico")
+- [Mensa Latina](https://laziodisco.it/mense/mensa-latina/), Latina, Via XXIV Maggio, 48 (in front of the Faculty of Economics of the University of Latina)
+- [Mensa San Sisto](https://laziodisco.it/mense/mensa-san-sisto-2/), Viterbo, Piazza San Sisto, 8 (a few minutes' walk from Università degli Studi della Tuscia)
+- [Mensa Sette Sale](https://laziodisco.it/mense/mensa-sette-sale/), Roma, Via delle Sette Sale, 29 (a few steps from the Colosseum)
+- [Mensa Vasca Navale](https://laziodisco.it/mense/mensa-di-via-della-vasca-navale/), Roma, Via della Vasca Navale, 79
+- [Mensa Via Alessandro Volta “Riello”](https://laziodisco.it/mense/mensa-via-alessandro-volta-riello/), Viterbo, Via Alessandro Volta, 37 (near the science campus of Università degli Studi della Tuscia)
+
+And in the following [refreshment points](https://laziodisco.it/punti-ristoro/):
+- [Punto Ristoro Caffè dei pittori](https://laziodisco.it/punti-ristoro/caffe-degli-artisti/), Roma, Via Flaminia, 57/59 (near the Department of Architecture of Sapienza)
+- [Punto Ristoro Sant'Andrea](https://laziodisco.it/punti-ristoro/punto-ristoro-santandrea/), Roma, Via di Grotta Rossa, 1039 (inside the hospital of the same name)
+    - Access to the refreshment point is reserved for students enrolled at the Faculty of Medicine and Surgery of Sant’Andrea hospital.
+- [Punto Ristoro Ristorante Vinile](https://laziodisco.it/punti-ristoro/test-punto-ristoro/), Roma, Via Giuseppe Libetta 19
 
 {{% hint info %}}
 <i class="fa-solid fa-circle-info" style="color: #74C0FC;"></i> **Gluten intolerant and celiac meals**
