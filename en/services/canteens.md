@@ -1,6 +1,6 @@
 # Student Canteens
 
-University canteens are facilities that allow you to eat at a subsidized price (prices by ISEE bracket can be found on the [dedicated page on the DiSCo Lazio website](http://www.laziodisco.it/servizi/ristorazione/)) depending on your university ISEE (Indicator of Equivalent Economic Situation).
+University canteens are facilities that allow you to eat at a subsidized price (prices by ISEE bracket can be found on the [dedicated page on the DiSCo Lazio website](https://laziodisco.it/servizi/catering/?lang=en)) depending on your university ISEE (Indicator of Equivalent Economic Situation).
 
 International students must get ISEE only from an affiliated CAF (Fiscal Assistance Center): the full list can be found [here](https://laziodisco.it/wp-content/uploads/2025/06/CAF-convenzionati-nel-Lazio-1.pdf). Required documentation to obtain the ISEE can be found on the website of [DiSCo Lazio](http://www.laziodisco.it/servizi/ristorazione/) under the heading "Documentazione per il primo accredito di studenti interazionali" (Documentation for first accreditation of international student).
 
@@ -30,19 +30,19 @@ Now, just show the app at the chosen canteen to obtain a meal at the prize of yo
 
 ## Canteens and refreshment points of DiSCo Lazio
 
-You can use the app in the following [canteens](https://laziodisco.it/mense/):
-- [Mensa Castro Laurenziano](https://laziodisco.it/mense/mensa-castro-laurenziano/), Roma, Via del Castro Laurenziano, 7b
-- [Mensa Cambridge](https://laziodisco.it/mense/mensa-via-cambridge/), Roma, Via Cambridge, 115 (a short distance from the university campus of Tor Vergata)
-- [Mensa di Frosinone](https://laziodisco.it/mense/mensa-di-frosinone/), Frosinone, Piazza Marzi, 1 (at the premises of the University of Cassino and Southern Lazio)
-- [Mensa De Dominicis](https://laziodisco.it/mense/mensa-via-de-dominicis/), Roma, Via De Dominicis, 13/15 (in the Casal Bertone neighborhood of Rome)
-- [Mensa De Lollis](https://laziodisco.it/mense/mensa-via-de-lollis/), Roma, Via Cesare De Lollis, 22
-- [Mensa Folcara](https://laziodisco.it/mense/mensa-folcara/), Cassino, Viale dell’Università, snc (inside College Folcara)
-- [Mensa Foro italico](https://laziodisco.it/mense/mensa-foro-italico/), Roma, Via Lauro De Bosis, 6 (inside the university building of Università degli Studi di Roma "Foro Italico")
-- [Mensa Latina](https://laziodisco.it/mense/mensa-latina/), Latina, Via XXIV Maggio, 48 (in front of the Faculty of Economics of the University of Latina)
-- [Mensa San Sisto](https://laziodisco.it/mense/mensa-san-sisto-2/), Viterbo, Piazza San Sisto, 8 (a few minutes' walk from Università degli Studi della Tuscia)
-- [Mensa Sette Sale](https://laziodisco.it/mense/mensa-sette-sale/), Roma, Via delle Sette Sale, 29 (a few steps from the Colosseum)
-- [Mensa Vasca Navale](https://laziodisco.it/mense/mensa-di-via-della-vasca-navale/), Roma, Via della Vasca Navale, 79
-- [Mensa Via Alessandro Volta “Riello”](https://laziodisco.it/mense/mensa-via-alessandro-volta-riello/), Viterbo, Via Alessandro Volta, 37 (near the science campus of Università degli Studi della Tuscia)
+You can use the app in the following [canteens](https://laziodisco.it/canteens/?lang=en):
+- [Mensa Castro Laurenziano](https://laziodisco.it/canteens/castro-laurentian-canteen/?lang=en), Roma, Via del Castro Laurenziano, 7b
+- [Mensa Cambridge](https://laziodisco.it/canteens/cambridge-street-canteen/?lang=en), Roma, Via Cambridge, 115 (a short distance from the university campus of Tor Vergata)
+- [Mensa di Frosinone](https://laziodisco.it/canteens/frosinone-canteen/?lang=en), Frosinone, Piazza Marzi, 1 (at the premises of the University of Cassino and Southern Lazio)
+- [Mensa De Dominicis](https://laziodisco.it/canteens/via-de-dominicis-canteen/?lang=en), Roma, Via De Dominicis, 13/15 (in the Casal Bertone neighborhood of Rome)
+- [Mensa De Lollis](https://laziodisco.it/canteens/via-de-lollis-canteen/?lang=en), Roma, Via Cesare De Lollis, 22
+- [Mensa Folcara](https://laziodisco.it/canteens/folcara-canteen/?lang=en), Cassino, Viale dell’Università, snc (inside College Folcara)
+- [Mensa Foro italico](https://laziodisco.it/canteens/foro-italico-canteen/?lang=en), Roma, Via Lauro De Bosis, 6 (inside the university building of Università degli Studi di Roma "Foro Italico")
+- [Mensa Latina](https://laziodisco.it/canteens/latin-canteen/?lang=en), Latina, Via XXIV Maggio, 48 (in front of the Faculty of Economics of the University of Latina)
+- [Mensa San Sisto](https://laziodisco.it/canteens/san-sisto-canteen/?lang=en), Viterbo, Piazza San Sisto, 8 (a few minutes' walk from Università degli Studi della Tuscia)
+- [Mensa Sette Sale](https://laziodisco.it/canteens/canteen-seven-halls/?lang=en), Roma, Via delle Sette Sale, 29 (a few steps from the Colosseum)
+- [Mensa Vasca Navale](https://laziodisco.it/canteens/naval-tank-street-canteen/?lang=en), Roma, Via della Vasca Navale, 79
+- [Mensa Via Alessandro Volta “Riello”](https://laziodisco.it/canteens/canteen-via-alessandro-volta-riello/?lang=en), Viterbo, Via Alessandro Volta, 37 (near the science campus of Università degli Studi della Tuscia)
 
 And in the following [refreshment points](https://laziodisco.it/punti-ristoro/):
 - [Punto Ristoro Caffè dei pittori](https://laziodisco.it/punti-ristoro/caffe-degli-artisti/), Roma, Via Flaminia, 57/59 (near the Department of Architecture of Sapienza)
