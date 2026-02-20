@@ -17,8 +17,10 @@ Keep in mind that Sapienza Wi-Fi requires login every time you try to connect to
 Credential for the access are **your personal Sapienza email (surname.id_number@studenti.uniroma1.it)** and **the password you use for Infostud**.
 
 ### Setting Up Eduroam
+
 {{% tabs "eduroamdevices" %}}
 {{% tab "📱 Smartphone" %}}
+
 To use Eduroam on your smartphone:
 1. Download the app **GetEduroam**:
     <p><a href="https://play.google.com/store/apps/details?id=app.eduroam.geteduroam" target="_blank" rel="attachment noopener wp-att-35892"><img loading="lazy" decoding="async" src="https://i.imgur.com/lMuV9nw.png" alt="Get It On Google Play" width="200px">&nbsp;</a> <a href="https://apps.apple.com/no/app/geteduroam/id1504076137" rel="attachment wp-att-35894"><img loading="lazy" decoding="async" src="https://i.imgur.com/EhmxDtk.png" alt="Download on the App Store" width="200px"></a>
@@ -26,6 +28,7 @@ To use Eduroam on your smartphone:
 
 {{% /tab %}}
 {{% tab "💻 Laptop" %}}
+
 To use Eduroam on you computer:
 1. Visit the [official Eduroam website](https://cat.eduroam.org);
 2. Download the install for your operating system;
@@ -36,6 +39,18 @@ On **Mac**, after downloading:
 2. Go to **Profiles** (at the end of the page);
 3. Double click the certificate **Eduroam**;
 4. Click on **Download...**
+
+On **Linux** (Debian based): Eduroam access points use TLSv1.0. Unless the TLS version is updated on the hotspots, here's a workaround:
+1. Download the configuration script from CAT eduroam
+2. Run `sudo nano /etc/NetworkManager/system-connections/<connection-ssid>.nmconnection` in our case, `eduroam`
+3. Add the line `phase1-auth-flags=32` as the last line in the `[802-1x]` section. Save.
+4. (Fedora only) Run `sudo update-crypto-policies --set DEFAULT:SHA1` from the terminal if you are on Fedora 42 or earlier.
+5. Restart both `NetworkManager` and `wpa_supplicant` (run `sudo systemctl restart NetworkManager` and `sudo systemctl restart wpa_supplicant`)
+6. From now on, to connect to eduroam, you will need to run `sudo nmcli --ask connection up eduroam` from the terminal. You will be asked to enter your uniroma1 password: enter it and press `ENTER`.
+
+Please note that while you are connected to Eduroam, the NetworkManager integrated into the operating system will _not_ work (KDE Plasma) and you will see strange behavior. When you need to disconnect, always use nmcli (e.g., `sudo nmcli --ask connection down eduroam`). NetworkManager will return to normal operation.
+
+
 {{% /tab %}}
 {{% /tabs %}}
 
