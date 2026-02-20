@@ -37,6 +37,7 @@ La rete network di Eduroam è disponibile in tante università internazionali! Q
 
 {{% tabs "eduroamdevices" %}}
 {{% tab "📱 Smartphone" %}}
+
 Per accedere alla rete Eduroam tramite smartphone iOS e Android:
 
 1. Scarica l'applicazione ufficiale **GetEduroam**:
@@ -44,8 +45,8 @@ Per accedere alla rete Eduroam tramite smartphone iOS e Android:
    * [Download iOS](https://apps.apple.com/no/app/geteduroam/id1504076137)
 2. Apri l'app e segui la procedura guidata per configurare la rete.
 {{% /tab %}}
-
 {{% tab "💻 Laptop" %}}
+
 Per accedere alla rete Eduroam tramite PC o Mac:
 
 1. Visita il [sito ufficiale di Eduroam](https://cat.eduroam.org).
