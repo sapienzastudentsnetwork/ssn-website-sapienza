@@ -40,13 +40,12 @@ On **Mac**, after downloading:
 3. Double click the certificate **Eduroam**;
 4. Click on **Download...**
 
-On **Linux** (Debian based): Eduroam access points use TLSv1.0. Unless the TLS version is updated on the hotspots, here's a workaround:
-1. Download the configuration script from CAT eduroam
-2. Run `sudo nano /etc/NetworkManager/system-connections/<connection-ssid>.nmconnection` in our case, `eduroam`
-3. Add the line `phase1-auth-flags=32` as the last line in the `[802-1x]` section. Save.
-4. (Fedora only) Run `sudo update-crypto-policies --set DEFAULT:SHA1` from the terminal if you are on Fedora 42 or earlier.
-5. Restart both `NetworkManager` and `wpa_supplicant` (run `sudo systemctl restart NetworkManager` and `sudo systemctl restart wpa_supplicant`)
-6. From now on, to connect to eduroam, you will need to run `sudo nmcli --ask connection up eduroam` from the terminal. You will be asked to enter your uniroma1 password: enter it and press `ENTER`.
+On **Linux** (Debian based): first, **follow the general steps listed at the beginning of this section** (visit the [official website](https://cat.eduroam.org), download the script/installer, execute it, and follow the configuration instructions). Subsequently, since Eduroam access points use TLSv1.0 (unless the TLS version is updated at the hotspot level), proceed as follows:
+1. Run `sudo nano /etc/NetworkManager/system-connections/<connection-ssid>.nmconnection` in our case, `eduroam`
+2. Add the line `phase1-auth-flags=32` as the last line in the `[802-1x]` section. Save.
+3. (Fedora only) Run `sudo update-crypto-policies --set DEFAULT:SHA1` from the terminal if you are on Fedora 42 or earlier.
+4. Restart both `NetworkManager` and `wpa_supplicant` (run `sudo systemctl restart NetworkManager` and `sudo systemctl restart wpa_supplicant`)
+5. From now on, to connect to eduroam, you will need to run `sudo nmcli --ask connection up eduroam` from the terminal. You will be asked to enter your uniroma1 password: enter it and press `ENTER`.
 
 Please note that while you are connected to Eduroam, the NetworkManager integrated into the operating system will _not_ work (KDE Plasma) and you will see strange behavior. When you need to disconnect, always use nmcli (e.g., `sudo nmcli --ask connection down eduroam`). NetworkManager will return to normal operation.
 
